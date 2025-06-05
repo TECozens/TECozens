@@ -1,6 +1,6 @@
 # Tomas Ewan Cozens
 
-Driven by a deep curiosity and passion for emerging tools and technologies, I’m building a career at the intersection of **Software Engineering** and **Machine Learning**. I bring experience across the full stack — **Frontend**, **Backend**, **DevOps**, and **AI/ML** — with a hands-on approach to both development and deployment.
+Driven by a passion for technologies,  **Software Engineering** and **Machine Learning**. I bring experience across the full stack — **Frontend**, **Backend**, **DevOps**, and **AI/ML** — getting hands-on in both development and deployment.
 
 ---
 
